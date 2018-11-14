@@ -1,4 +1,5 @@
-# Smart Cocktail Stupid-Namer
+# Smart Stupid-Namer
+(set up for generating silly cocktail names)
 ## Build Client-side files
 ```bash
 npm run build
